@@ -12,10 +12,11 @@ A centralized reference for pacing, physiological zones, target race splits, cyc
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Zone 1: Active Recovery** | Flush fatigue, warm-up/cool-down | 8:30 – 9:15+ | 5:17 – 5:45+ | 2:07 – 2:18 | Extremely conversational, minimal cardiac drift |
 | **Zone 2: Easy Aerobic / Long Run** | Mitochondrial density, fat oxidation | 7:35 – 8:20 | 4:43 – 5:10 | 1:53 – 2:04 | True conversational pace; can speak in full sentences |
-| **Zone 3: Aerobic Steady / Marathon** | Muscular endurance, steady tempo | 7:00 – 7:25 | 4:21 – 4:36 | 1:44 – 1:50 | "Comfortably hard"; rhythm breathing (3:3 or 2:2) |
+| **Zone 3: Aerobic Steady / Tempo** | Muscular endurance, steady tempo | 7:00 – 7:25 | 4:21 – 4:36 | 1:44 – 1:50 | "Comfortably hard"; rhythm breathing (3:3 or 2:2) |
+| **Goal Marathon Pace (Sub-3:00 MGP)** | Sub-3:00:00 standalone marathon | **6:48 – 6:50** | **4:14** | **1:42** | Target marathon pace for late 2027 Sub-3 block |
 | **Goal Half Marathon Pace (HM GP)** | Sub-1:30 Half Marathon race pace | **6:50 – 6:51** | **4:15** | **1:42** | Target for progressive long runs & race pace blocks |
-| **Goal 70.3 Run Pace** | Sub-1:32 Half Marathon off bike | **7:00 – 7:05** | **4:21 – 4:24** | **1:44 – 1:46** | Target for brick runs & 70.3 simulation |
-| **Goal Ironman Marathon Pace** | Sub-3:35 Marathon off 112m bike | **8:10 – 8:15** | **5:04 – 5:08** | **2:02 – 2:04** | Aerobic economy, strict heart rate cap |
+| **Goal 70.3 Run Pace (Sub-5:00)** | Sub-1:35 Half Marathon off 56m bike | **7:10 – 7:18** | **4:27 – 4:32** | **1:47 – 1:49** | Target for 70.3 brick runs & race simulation |
+| **Goal Ironman Marathon Pace (Sub-10)** | Sub-3:36 Marathon off 112m bike | **8:10 – 8:15** | **5:04 – 5:08** | **2:02 – 2:04** | Aerobic economy, strict heart rate cap |
 | **Zone 4: Lactate Threshold (LT2)** | Clear & buffer blood lactate | **6:25 – 6:35** | **3:59 – 4:05** | **1:36 – 1:38** | 1-hour race effort; cruise intervals ($3 \times 2\text{ mi}$) |
 | **10K Race Pace** | Sub-40 10K benchmark | **6:26** | **4:00** | **1:36** | Sustainable for 35–45 minutes |
 | **5K Race Pace / V̇O₂ Max** | Aerobic ceiling, maximal oxygen uptake | **6:00 – 6:15** | **3:44 – 3:53** | **1:30 – 1:34** | Track repeats ($5 \times 1,000\text{m}$, $6 \times 800\text{m}$) |
@@ -24,6 +25,22 @@ A centralized reference for pacing, physiological zones, target race splits, cyc
 ---
 
 ## ⏱️ Target Split Tables
+
+### Standalone Sub-3:00:00 Marathon Split Chart
+* **Target Time:** 2:59:00 (1-minute buffer under 3:00:00)
+* **Average Pace:** 6:49.6 / mi (4:14.6 / km)
+
+| Split Marker | Cumulative Time | Interval Split Time | Target Pace |
+| :--- | :--- | :--- | :--- |
+| **5 km (3.11 mi)** | 0:21:13 | 0:21:13 | 6:49 / mi (4:15 / km) |
+| **10 km (6.21 mi)** | 0:42:26 | 0:21:13 | 6:49 / mi (4:15 / km) |
+| **15 km (9.32 mi)** | 1:03:39 | 0:21:13 | 6:49 / mi (4:15 / km) |
+| **Half Marathon (13.11 mi)** | **1:29:30** | 0:25:51 (last 3.79 mi) | **6:49 / mi (4:15 / km)** |
+| **25 km (15.53 mi)** | 1:46:05 | 0:16:35 | 6:49 / mi (4:15 / km) |
+| **30 km (18.64 mi)** | 2:07:18 | 0:21:13 | 6:49 / mi (4:15 / km) |
+| **35 km (21.75 mi)** | 2:28:31 | 0:21:13 | 6:49 / mi (4:15 / km) |
+| **40 km (24.85 mi)** | 2:49:44 | 0:21:13 | 6:49 / mi (4:15 / km) |
+| **Finish (42.195 km / 26.22 mi)** | **2:59:00** | **0:09:16** (last 2.195 km) | **6:49 / mi (4:15 / km)** |
 
 ### Standalone Half Marathon (Sub-1:30:00)
 * **Target Time:** 1:29:50 | **Average Pace:** 6:51.2 / mi (4:15.5 / km)
@@ -52,27 +69,29 @@ A centralized reference for pacing, physiological zones, target race splits, cyc
 
 ## 🏁 Triathlon Target Splits & Pacing Strategy
 
-### 1. IRONMAN 70.3 Oceanside (Target: Sub-4:40:00)
+### 1. IRONMAN 70.3 Oceanside (Goal: Sub-5:00:00)
+*Target Time: 4:51:30 (8.5-minute safety buffer)*
 
 | Discipline | Distance | Target Time | Pacing / Power Target | Fueling / Strategy Notes |
 | :--- | :--- | :--- | :--- | :--- |
-| **Swim** | 1.2 mi (1.9 km) | **32:00** | 1:38 – 1:41 / 100m | Harbor draft, 2-beat kick until last 200m |
+| **Swim** | 1.2 mi (1.9 km) | **35:00** | 1:45 – 1:48 / 100m | Harbor draft, smooth steady rhythm |
 | **T1 (Transition 1)**| — | **3:30** | Swift wetsuit strip & run | Helmet on, shoes mounted/ready |
-| **Bike** | 56 mi (90 km) | **2:30:00** | 22.4 mph (80–83% FTP) | Cap climbs at 95% FTP; $75\text{g}$ carbs/hr |
+| **Bike** | 56 mi (90 km) | **2:36:00** | 21.5 mph (78–81% FTP) | Cap climbs at 95% FTP; $75\text{g}$ carbs/hr |
 | **T2 (Transition 2)**| — | **2:00** | Quick rack & lace switch | Elastic laces, grab gels & visor |
-| **Run** | 13.1 mi (21.1 km)| **1:32:00** | 7:01 / mi (4:22 / km) | Flat Strand pacing, gel every 3 miles |
-| **TOTAL** | **70.3 Miles** | **4:39:30** | — | **Sub-4:40 Finish** |
+| **Run** | 13.1 mi (21.1 km)| **1:35:00** | 7:15 / mi (4:30 / km) | Controlled start (7:20/mi), settle into 7:12/mi |
+| **TOTAL** | **70.3 Miles** | **4:51:30** | — | **Sub-5:00 Finish** |
 
-### 2. IRONMAN California (Target: Sub-10:00:00)
+### 2. IRONMAN California (Goal: Sub-10:00:00)
+*Target Time: 9:48:30 (11.5-minute safety buffer)*
 
 | Discipline | Distance | Target Time | Pacing / Power Target | Fueling / Strategy Notes |
 | :--- | :--- | :--- | :--- | :--- |
-| **Swim** | 2.4 mi (3.8 km) | **52:00** | 1:22 / 100m (current-assisted) | Stay centered in main river current channel |
+| **Swim** | 2.4 mi (3.8 km) | **54:00** | 1:25 / 100m (current-assisted) | Stay centered in main river channel |
 | **T1 (Transition 1)**| — | **4:30** | Full dry off & socks on | Clean feet before 5-hour ride |
-| **Bike** | 112 mi (180 km)| **5:10:00** | 21.7 mph (68–72% FTP) | Zero coasting; $85\text{--}95\text{g}$ carbs/hr, steady watts |
+| **Bike** | 112 mi (180 km)| **5:12:00** | 21.5 mph (68–72% FTP) | Zero coasting; $85\text{--}95\text{g}$ carbs/hr, steady watts |
 | **T2 (Transition 2)**| — | **3:00** | Lube, change shoes, sunblock | Controlled transition out to run |
 | **Run** | 26.2 mi (42.2 km)| **3:35:00** | 8:12 / mi (5:05 / km) | Discipline first 10 miles (cap @ 8:05/mi); walk aid stations |
-| **TOTAL** | **140.6 Miles** | **9:44:30** | — | **Sub-10:00 Finish** |
+| **TOTAL** | **140.6 Miles** | **9:48:30** | — | **Sub-10:00 Finish** |
 
 ---
 

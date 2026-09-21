@@ -12,7 +12,7 @@ A periodized weekly schedule tailored for **IRONMAN 70.3 Oceanside (April 3, 202
   * 🏊 **Swim:** 1.2 miles (1.9 km) — Oceanside Harbor (cool ocean water ~58–62°F, wetsuit legal, calm harbor navigation).
   * 🚴 **Bike:** 56 miles (90 km) — Camp Pendleton coastal and inland rolling hills (~2,800 ft / 850m elevation gain, including punchy climbs like San Mateo hill up to 8–10% grade).
   * 🏃 **Run:** 13.1 miles (21.1 km) — Two-loop coastal run along the Strand and Pacific pier ramps; flat with short punchy transition ramps.
-* **Target Pacing Standard:** Sub-4:40 (Swim ~32:00, T1 ~3:30, Bike ~2:30:00 [22.4 mph / 80–83% FTP], T2 ~2:00, Run ~1:32:00 [7:01/mi pace]).
+* **Target Pacing Standard:** Sub-5:00:00 (Swim ~35:00 [1:48/100m], T1 ~3:30, Bike ~2:36:00 [21.5 mph / 78–81% FTP], T2 ~2:00, Run ~1:35:00 [7:15/mi pace] $\to$ Total: 4:51:30).
 
 ---
 
@@ -106,14 +106,14 @@ A periodized weekly schedule tailored for **IRONMAN 70.3 Oceanside (April 3, 202
 * **Primary Cardio 2: Immediate Transition Brick Run *(0:20 Total / 2.5–3.2 Miles)***
   * **Execution:** Rack bike, switch shoes within 60 seconds (simulating T2).
   * **Mile 1:** Settle into cadence (175–180 spm), overcome initial "dead leg" sensation; don't surge.
-  * **Miles 2–3:** Hold target **70.3 Race Pace (6:50 – 7:00 / mi)** with tall posture and relaxed shoulders.
+  * **Miles 2–3:** Hold target **70.3 Race Pace (7:10 – 7:15 / mi)** with tall posture and relaxed shoulders.
 
 ---
 
 ### **Sunday: Quality Long Run + Upper Body B**
 * **Primary Cardio: Quality Half Marathon Long Run *(1:30 – 1:45 Total / 11–13 Miles)***
   * **Miles 1–8:** Steady Zone 2 aerobic running (7:40 – 8:15 / mi).
-  * **Miles 9–12:** Progressive finish down to target race pace (**6:50 / mi**).
+  * **Miles 9–12:** Progressive finish down to target half marathon race pace (**7:05 – 7:15 / mi**).
   * **Cool-down:** 0.5–1 mile easy jog.
 * **Stacked Calisthenics (Post-Run or PM):**
   1. **Ring Push-ups / Archer Push-ups:** 3 sets $\times 10\text{--}12$ reps.

@@ -12,7 +12,7 @@ A high-volume, durability-focused weekly schedule built for **IRONMAN California
   * 🏊 **Swim:** 2.4 miles (3.8 km) — Point-to-point downriver swim starting in the American River and finishing in the Sacramento River. Fast, current-assisted, wetsuit legal.
   * 🚴 **Bike:** 112 miles (180 km) — Two loops through the Sacramento Delta / farmland. Extremely flat with virtually zero coasting; requires holding aero tuck for 4.5–5.5+ hours against strong delta crosswinds and headwinds.
   * 🏃 **Run:** 26.2 miles (42.2 km) — Flat, 2-loop marathon along the Sacramento river trail, Old Sacramento, and Capitol Mall, finishing in front of the California State Capitol.
-* **Target Time Benchmark:** Sub-10:00 (Swim ~52:00, T1 ~4:30, Bike ~5:10:00 [21.7 mph @ 68–72% FTP], T2 ~3:00, Run ~3:35:00 [8:12/mi marathon pace]).
+* **Target Time Benchmark:** Sub-10:00:00 (Swim ~54:00 [current-assisted], T1 ~4:30, Bike ~5:12:00 [21.5 mph @ 68–72% FTP], T2 ~3:00, Run ~3:35:00 [8:12/mi marathon pace] $\to$ Total: 9:48:30 with 11.5-minute buffer).
 
 ---
 
