@@ -1,0 +1,41 @@
+name: Sync Intervals.icu Fitness Metrics
+
+on:
+  schedule:
+    # Run every Monday morning at 06:00 UTC
+    - cron: '0 6 * * 1'
+  workflow_dispatch: # Allows manual trigger from GitHub Actions tab
+
+jobs:
+  sync-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Fetch Live Metrics
+        env:
+          INTERVALS_ATHLETE_ID: ${{ secrets.INTERVALS_ATHLETE_ID }}
+          INTERVALS_API_KEY: ${{ secrets.INTERVALS_API_KEY }}
+        run: |
+          python3 scripts/intervals_sync.py
+
+      - name: Commit & Push Dashboard Updates
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add fitness-dashboard.md
+          if git diff --staged --quiet; then
+            echo "No changes to fitness dashboard."
+          else
+            git commit -m "chore(data): auto-update fitness-dashboard.md from Intervals.icu [skip ci]"
+            git push
+          fi
