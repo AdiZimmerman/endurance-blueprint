@@ -1,6 +1,6 @@
 # Benchmarks: Pace Charts, Heart Rate Zones & Target Splits
 
-A centralized reference for pacing, physiological zones, target race splits, cycling metrics, and strength baselines across training blocks.
+A centralized reference for pacing, physiological zones, target race splits, cycling metrics, swimming baselines, and strength standards across all training blocks.
 
 ---
 
@@ -14,6 +14,8 @@ A centralized reference for pacing, physiological zones, target race splits, cyc
 | **Zone 2: Easy Aerobic / Long Run** | Mitochondrial density, fat oxidation | 7:35 – 8:20 | 4:43 – 5:10 | 1:53 – 2:04 | True conversational pace; can speak in full sentences |
 | **Zone 3: Aerobic Steady / Marathon** | Muscular endurance, steady tempo | 7:00 – 7:25 | 4:21 – 4:36 | 1:44 – 1:50 | "Comfortably hard"; rhythm breathing (3:3 or 2:2) |
 | **Goal Half Marathon Pace (HM GP)** | Sub-1:30 Half Marathon race pace | **6:50 – 6:51** | **4:15** | **1:42** | Target for progressive long runs & race pace blocks |
+| **Goal 70.3 Run Pace** | Sub-1:32 Half Marathon off bike | **7:00 – 7:05** | **4:21 – 4:24** | **1:44 – 1:46** | Target for brick runs & 70.3 simulation |
+| **Goal Ironman Marathon Pace** | Sub-3:35 Marathon off 112m bike | **8:10 – 8:15** | **5:04 – 5:08** | **2:02 – 2:04** | Aerobic economy, strict heart rate cap |
 | **Zone 4: Lactate Threshold (LT2)** | Clear & buffer blood lactate | **6:25 – 6:35** | **3:59 – 4:05** | **1:36 – 1:38** | 1-hour race effort; cruise intervals ($3 \times 2\text{ mi}$) |
 | **10K Race Pace** | Sub-40 10K benchmark | **6:26** | **4:00** | **1:36** | Sustainable for 35–45 minutes |
 | **5K Race Pace / V̇O₂ Max** | Aerobic ceiling, maximal oxygen uptake | **6:00 – 6:15** | **3:44 – 3:53** | **1:30 – 1:34** | Track repeats ($5 \times 1,000\text{m}$, $6 \times 800\text{m}$) |
@@ -23,9 +25,8 @@ A centralized reference for pacing, physiological zones, target race splits, cyc
 
 ## ⏱️ Target Split Tables
 
-### Sub-1:30:00 Half Marathon Split Chart
-* **Target Time:** 1:29:50 (Safety buffer of 10s)
-* **Average Pace:** 6:51.2 / mi (4:15.5 / km)
+### Standalone Half Marathon (Sub-1:30:00)
+* **Target Time:** 1:29:50 | **Average Pace:** 6:51.2 / mi (4:15.5 / km)
 
 | Split Marker | Cumulative Time | Split Time (5 km / 5 mi) | Target Average Pace |
 | :--- | :--- | :--- | :--- |
@@ -46,6 +47,56 @@ A centralized reference for pacing, physiological zones, target race splits, cyc
 | **5K Sub-19** | **18:59** | 6:06 / mi | 3:48 / km | 1:31 |
 | **10K Sub-40** | **39:59** | 6:26 / mi | 4:00 / km | 1:36 |
 | **10K Sub-38** | **37:59** | 6:07 / mi | 3:48 / km | 1:31 |
+
+---
+
+## 🏁 Triathlon Target Splits & Pacing Strategy
+
+### 1. IRONMAN 70.3 Oceanside (Target: Sub-4:40:00)
+
+| Discipline | Distance | Target Time | Pacing / Power Target | Fueling / Strategy Notes |
+| :--- | :--- | :--- | :--- | :--- |
+| **Swim** | 1.2 mi (1.9 km) | **32:00** | 1:38 – 1:41 / 100m | Harbor draft, 2-beat kick until last 200m |
+| **T1 (Transition 1)**| — | **3:30** | Swift wetsuit strip & run | Helmet on, shoes mounted/ready |
+| **Bike** | 56 mi (90 km) | **2:30:00** | 22.4 mph (80–83% FTP) | Cap climbs at 95% FTP; $75\text{g}$ carbs/hr |
+| **T2 (Transition 2)**| — | **2:00** | Quick rack & lace switch | Elastic laces, grab gels & visor |
+| **Run** | 13.1 mi (21.1 km)| **1:32:00** | 7:01 / mi (4:22 / km) | Flat Strand pacing, gel every 3 miles |
+| **TOTAL** | **70.3 Miles** | **4:39:30** | — | **Sub-4:40 Finish** |
+
+### 2. IRONMAN California (Target: Sub-10:00:00)
+
+| Discipline | Distance | Target Time | Pacing / Power Target | Fueling / Strategy Notes |
+| :--- | :--- | :--- | :--- | :--- |
+| **Swim** | 2.4 mi (3.8 km) | **52:00** | 1:22 / 100m (current-assisted) | Stay centered in main river current channel |
+| **T1 (Transition 1)**| — | **4:30** | Full dry off & socks on | Clean feet before 5-hour ride |
+| **Bike** | 112 mi (180 km)| **5:10:00** | 21.7 mph (68–72% FTP) | Zero coasting; $85\text{--}95\text{g}$ carbs/hr, steady watts |
+| **T2 (Transition 2)**| — | **3:00** | Lube, change shoes, sunblock | Controlled transition out to run |
+| **Run** | 26.2 mi (42.2 km)| **3:35:00** | 8:12 / mi (5:05 / km) | Discipline first 10 miles (cap @ 8:05/mi); walk aid stations |
+| **TOTAL** | **140.6 Miles** | **9:44:30** | — | **Sub-10:00 Finish** |
+
+---
+
+## 🏊 Swimming Benchmarks & Critical Swim Speed (CSS)
+
+**Critical Swim Speed (CSS)** represents the aerobic threshold pace sustainable for continuous swimming without exhaustion (~1,500m pace).
+
+### CSS Field Test Protocol
+1. Warm up thoroughly ($400\text{m}$ swim $+ 4 \times 50\text{m}$ build).
+2. Time trial: **$400\text{m}$ freestyle all-out** (Record time $T_{400}$ in seconds).
+3. 10 minutes easy active recovery.
+4. Time trial: **$200\text{m}$ freestyle all-out** (Record time $T_{200}$ in seconds).
+5. Calculation:
+   $$\text{CSS Pace (sec/100m)} = \frac{T_{400} - T_{200}}{2}$$
+
+### Swim Training Pace Zones
+
+| Swim Zone | Focus / Purpose | Pace Target (/100m) | Rest per Interval |
+| :--- | :--- | :--- | :--- |
+| **Zone 1: Recovery / Drill** | Technique, stroke length, catch drills | CSS + 15 – 20s | 15 – 20s |
+| **Zone 2: Aerobic Endurance** | Steady aerobic base, 400m–1,500m pulls | **CSS + 6 – 10s** | 10 – 15s |
+| **Zone 3: Tempo / 70.3 Race** | Half Ironman race pace rhythm | **CSS + 3 – 5s** | 15 – 20s |
+| **Zone 4: CSS Threshold** | Lactate threshold ceiling, 100m–400m repeats | **CSS (1:30 – 1:35)** | 10 – 20s |
+| **Zone 5: V̇O₂ / Sprint** | Anaerobic power, 50m–100m surges | CSS – 5 – 8s | 30 – 45s |
 
 ---
 
@@ -73,26 +124,30 @@ Heart rate zones are calibrated using **Lactate Threshold Heart Rate (LTHR)** de
 | Zone | Label | % FTP | Target Cadence | Purpose & Application |
 | :--- | :--- | :--- | :--- | :--- |
 | **Z1** | Active Recovery | $< 55\%$ | 90+ RPM | Flush rides (Friday spin), warm-up/cool-down |
-| **Z2** | Endurance | **56% – 75%** | **85 – 95 RPM** | Base building, multi-hour Saturday rides, bikepacking |
-| **Z3** | Tempo | 76% – 90% | 85 – 90 RPM | Steady fast cruising, sustained headwind efforts |
-| **Z4** | Sweet Spot / Threshold | 88% – 105% | 80 – 90 RPM | Sustained climbing, interval training |
-| **Z5** | V̇O₂ Max | 106% – 120% | 95 – 105 RPM | Short steep climbs, surge power |
+| **Z2** | Endurance | **56% – 75%** | **85 – 95 RPM** | Base building, Ironman 112m pacing (68–72%), touring |
+| **Z3** | Tempo | 76% – 90% | 85 – 90 RPM | 70.3 race pacing (80–83%), sustained headwind cruise |
+| **Z4** | Sweet Spot / Threshold | 88% – 105% | 80 – 90 RPM | Sustained climbing, interval training, surge buffer |
+| **Z5** | V̇O₂ Max | 106% – 120% | 95 – 105 RPM | Short steep climbs, punchy accelerations |
 
 ### Cadence Guidelines
 * **Flat Terrain / Zone 2 Efficiency:** $85\text{--}95\text{ RPM}$ (minimizes neuromuscular strain and conserves glycogen)
 * **Active Recovery Spin:** $90\text{--}100\text{ RPM}$ (light resistance, promotes circulatory recovery)
-* **Climbing / Loaded Touring:** $75\text{--}85\text{ RPM}$ (sustainable power with loaded bags/panniers)
+* **Climbing / Loaded Touring:** $75\text{--}85\text{ RPM}$ (sustainable power on steep gradients)
 
 ---
 
 ## 💧 Fueling & Hydration Benchmarks
 
-* **Sessions $< 60$ mins:** Water + electrolytes as needed. No exogenous carbohydrate required.
-* **Sessions $60\text{--}90$ mins:** $30\text{--}45\text{g}$ carbohydrates/hr (hydration drink or 1 gel).
-* **Sessions $> 90$ mins (Long Rides / Long Runs):**
-  * **Carbohydrates:** $60\text{--}80\text{g}$ per hour (mix of maltodextrin/fructose gels, chews, or liquid mix).
-  * **Fluids:** $500\text{--}750\text{ mL}$ fluid per hour (adjust upward in heat $> 25^\circ\text{C}$).
-  * **Sodium:** $400\text{--}700\text{ mg}$ sodium per hour to prevent hyponatremia and cramping.
+* **Short Sessions ($< 60$ mins):** Water + electrolytes as needed. No exogenous carbohydrate required.
+* **Medium Sessions ($60\text{--}90$ mins):** $30\text{--}45\text{g}$ carbohydrates/hr (hydration drink or 1 gel).
+* **70.3 Long Rides & Runs ($2\text{--}4$ hours):**
+  * **Carbohydrates:** $70\text{--}85\text{g}$ per hour.
+  * **Fluids:** $500\text{--}750\text{ mL}$ fluid per hour.
+  * **Sodium:** $500\text{--}750\text{ mg}$ sodium per hour.
+* **Full Distance Ironman ($4.5\text{--}6+$ hours on bike):**
+  * **Carbohydrates:** $80\text{--}95\text{g}$ per hour (liquid maltodextrin/fructose mix + gels).
+  * **Fluids:** $600\text{--}850\text{ mL}$ fluid per hour (adjust based on heat and sweat rate).
+  * **Sodium:** $700\text{--}1,000\text{ mg}$ sodium per hour.
 
 ---
 
@@ -102,12 +157,13 @@ Bodyweight strength preserves structural integrity, running economy, and upper-b
 
 | Movement Category | Benchmark Exercise | Target Standard | Primary Transfer |
 | :--- | :--- | :--- | :--- |
-| **Vertical Pull** | Strict Deadhang Pull-ups | $\ge 12\text{--}15$ reps | Posture, thoracic extension, grip & climb |
-| **Vertical / Deep Push** | Strict Bar or Ring Dips | $\ge 15\text{--}20$ reps | Chest, shoulder stability, tricep endurance |
-| **Horizontal Pull** | Inverted Ring Rows | $\ge 15$ strict reps | Scapular retraction, anti-slouch riding posture |
-| **Horizontal Push** | Ring or Decline Push-ups | $\ge 25\text{--}30$ reps | Core integration, anterior chain endurance |
+| **Vertical Pull** | Strict Deadhang Pull-ups | $\ge 12\text{--}15$ reps | Swim catch power, thoracic extension, grip & climb |
+| **Vertical / Deep Push** | Strict Bar or Ring Dips | $\ge 15\text{--}20$ reps | Tricep push in swim exit & aero stability |
+| **Horizontal Pull** | Inverted Ring Rows | $\ge 15$ strict reps | Scapular retraction, anti-slouch aero riding posture |
+| **Horizontal Push** | Ring or Decline Push-ups | $\ge 25\text{--}30$ reps | Core integration, anterior chest endurance |
 | **Single-Leg Knee Flexion** | Bulgarian Split Squats | 15 reps/leg (controlled 3s tempo) | Glute medius, quad strength, running knee tracking |
 | **Posterior Chain** | Single-Leg Romanian Deadlift | 12 reps/leg | Hamstring stability, hip hinge, ankle control |
 | **Lower Leg Durability** | Single-Leg Eccentric Calf Raises | 20 reps/leg (4s descent) | Achilles tendon stiffness, calf spring |
 | **Anterior Shin** | Tibialis Wall Raises | 25 reps | Shin splint prevention, deceleration control |
 | **Midline Core** | Hollow Body Hold / Ab Wheel | 60s hold / 15 rollouts | Pelvic control, eliminates lower back hyperextension |
+| **Neck & Scapular Extensors**| Prone Cobra / Y-T-W Holds | 3 sets x 45s hold | Prevents "Shermer's Neck" during 112m aero bike |
