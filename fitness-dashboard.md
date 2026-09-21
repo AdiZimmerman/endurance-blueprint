@@ -1,9 +1,11 @@
 # 📊 Endurance Blueprint: Fitness & Readiness Dashboard
 
 > [!NOTE]
-> *Currently displaying demo / placeholder data. Configure `.env` with your Intervals.icu API Key to stream live Garmin/Intervals data.*
+> *Currently showing baseline demo data. Add your `INTERVALS_API_KEY` to `.env` to stream live Garmin & Intervals data.*
 
-*Last Updated: 2026-09-21 11:16:33 UTC*
+**Athlete Profile:** Adi Zimmerman (Baseline) | **FTP:** 260 W | **LTHR:** 172 bpm | **Max HR:** 188 bpm
+
+*Last Updated: 2026-09-21 11:19:44 UTC via [Intervals.icu Open API](https://www.intervals.icu/features/open-api/)*
 
 ---
 
@@ -20,24 +22,25 @@
 
 ## ⚡ Current Fitness & Fatigue Metrics
 
-| Metric | Value | Description & Purpose |
+| Metric | Current Value | Physiological Purpose & Interpretation |
 | :--- | :--- | :--- |
-| **Fitness (CTL)** | **78.5** | Chronic Training Load (~42-day rolling exponential weighted average). Represents total aerobic engine. |
-| **Fatigue (ATL)** | **84.2** | Acute Training Load (~7-day rolling weighted average). Represents recent training fatigue. |
-| **Form (TSB)** | **-5.7** | Training Stress Balance ($CTL - ATL$). Indicates readiness to race or train hard. |
-| **Ramp Rate** | **+4.1 / wk** | Weekly change in CTL. Ideal range: $+3$ to $+7$ per week to prevent overtraining. |
-| **Resting HR** | **44** bpm | Lower baseline indicates strong parasympathetic tone and recovery. |
-| **HRV (RMSSD)** | **68** ms | Heart Rate Variability baseline metric. |
-| **Current Weight** | **72.5** kg | Monitored for power-to-weight and hydration tracking. |
+| **Fitness (CTL)** | **78.5** | Chronic Training Load (~42-day rolling exponential weighted average). Represents total cardiovascular aerobic engine. |
+| **Fatigue (ATL)** | **84.2** | Acute Training Load (~7-day rolling weighted average). Reflects short-term training fatigue and stress. |
+| **Form (TSB)** | **-5.7** | Training Stress Balance ($CTL - ATL$). Governs fresh leg readiness vs training fatigue state. |
+| **Ramp Rate** | **+4.1 / wk** | Weekly change in CTL. Safe progression: $+3$ to $+7$ load points per week. |
+| **Resting HR** | **44** bpm | Parasympathetic health marker; elevation of 5+ bpm flags incomplete recovery. |
+| **HRV (RMSSD)** | **68** ms | Autonomic nervous system balance; higher scores indicate strong adaptability. |
+| **Sleep** | **7h 45m** (Score: 86) | Primary recovery window for tissue repair and growth hormone release. |
+| **Current Weight** | **72.5** kg | Monitored for power-to-weight ratio and race nutrition hydration balancing. |
 
-### 🧭 Current Status Interpretation
-> 🟡 **Productive Training Zone** (Optimal adaptation & fitness build)
+### 🧭 Form & Readiness Status
+> 🟡 **Productive Training Zone** (Optimal physiological adaptation & sustainable building)
 
 ---
 
-## 🏃🚴🏊 Recent Activity Log (Garmin / Intervals.icu)
+## 🏃🚴🏊 Recent Activity Stream (Garmin / Intervals.icu)
 
-| Date | Sport | Title | Distance | Duration | Avg HR | Power / Pace | Load / TSS |
+| Date | Sport | Activity Title | Distance | Duration | Avg HR | Power / Pace | Load (TSS) |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **2026-09-20** | Ride | Saturday Long Road Aerobic Ride | 82.4 km | 3h 05m | 134 bpm | 195 W (Zone 2) | 142 |
 | **2026-09-19** | Run | Quality Long Run with Fast Finish | 19.3 km | 1h 26m | 154 bpm | 7:10 / mi avg | 98 |
@@ -48,10 +51,18 @@
 
 ## 🔄 How to Refresh Live Data
 
-To refresh this dashboard with live data from your Garmin / Intervals.icu account:
-
 ```bash
-# 1. Ensure your .env has INTERVALS_ATHLETE_ID and INTERVALS_API_KEY
-# 2. Run the sync script:
+# Pull live data from Intervals.icu / Garmin:
 python3 scripts/intervals_sync.py
+
+# Push a structured workout to Intervals.icu calendar (syncs to Garmin):
+python3 scripts/intervals_sync.py --push-workout "Tuesday Threshold Run" "Warmup
+- 15m Z2
+
+Main Set 3x
+- 2mi 6:30/mi
+- 2m Z1
+
+Cooldown
+- 10m Z2"
 ```
