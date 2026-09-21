@@ -1,12 +1,11 @@
 # Master Weekly Hybrid Schedule: [Block Name / Goal Event]
 
 <!--
-INSTRUCTIONS TO ACTIVATE A NEW BLOCK:
+INSTRUCTIONS TO CREATE & ACTIVATE A NEW BLOCK:
 1. Duplicate this file:
    cp blocks/template.md blocks/YYYY-qX-block-name.md
 2. Customize the days, paces, intervals, and stacked calisthenics routines below.
-3. Update current-block.md to point to your new file:
-   ln -sf blocks/YYYY-qX-block-name.md current-block.md
+3. Update the Active Block banner at the top of README.md to feature your new block.
 -->
 
 ## 🎯 Block Overview & Objectives
