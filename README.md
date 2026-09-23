@@ -23,6 +23,7 @@ A modular, version-controlled training framework designed for hybrid endurance a
 │   ├── 2027-q1-oceanside-703.md       <-- Sub-5:00 IRONMAN 70.3 Oceanside (April 3, 2027)
 │   ├── 2027-q3-ironman-california.md  <-- Sub-10:00 IRONMAN California (October 18, 2027)
 │   ├── 2027-q4-sub3-marathon.md       <-- Sub-3:00 Marathon Block (Late 2027 PR / CIM)
+│   ├── 2027-q2-escape-alcatraz.md       <-- Escape From Alcatraz Triathlon (June 6, 2027)
 │   └── template.md                    <-- Master reusable schedule template
 ├── logs/
 │   └── template-weekly-log.md         <-- Weekly execution & wellness tracker
@@ -61,6 +62,8 @@ A modular, version-controlled training framework designed for hybrid endurance a
 [Q2–Q3 2027] ──> Sub-10:00 IRONMAN California (October 18, 2027 - 140.6 full-distance peak aero & marathon build)
       │
 [Q4 2027] ──> Sub-3:00 Marathon Block (Late Fall / CIM Dec 2027 - Converting Ironman diesel engine to 6:49/mi marathon pace)
+[Q2 2027] ──→ Escape From Alcatraz Triathlon (June 6, 2027 – Sprint‑triathlon)
+       │
 ```
 
 ---
