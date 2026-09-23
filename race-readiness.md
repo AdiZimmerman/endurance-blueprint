@@ -97,7 +97,7 @@ Race Day    ──> Wake up 3.5h before gun; 800–1,000 kcal carb-rich breakfas
 ### 3. Standalone Sub-3:00 Marathon
 * **Pacing Discipline:** Run an even split of **1:29:30 / 1:29:30** or slight negative split.
 * **The 30K Checkpoint:** The marathon truly begins at Mile 20. If you have faithfully consumed 65g carbs/hr and maintained a 180 spm cadence, you will pass dozens of fading runners over the final 10 km.
-## 🏃 Escape From Alcatraz – Transition Checklist
+### 4. Escape From Alcatraz – Transition Checklist
 
 * **T1:** Quick wetsuit removal, helmet on, shoes ready – aim < 30 s.
 * **Bike:** 18 mi loop, keep cadence 90‑95 RPM, manage wind.
