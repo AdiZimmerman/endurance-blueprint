@@ -59,12 +59,11 @@ A modular, version-controlled training framework designed for hybrid endurance a
       │
 [Q1 2027] ──> Sub-5:00 IRONMAN 70.3 Oceanside (April 3, 2027 - Harbor swim + Pendleton hills + brick runs)
       │
+[Q2 2027] ──> Escape From Alcatraz Triathlon (June 6, 2027 – Sprint-triathlon: 1.5 mi swim / 18 mi bike / 8 mi run)
+      │
 [Q2–Q3 2027] ──> Sub-10:00 IRONMAN California (October 18, 2027 - 140.6 full-distance peak aero & marathon build)
       │
-[Q2 2027] ──→ Escape From Alcatraz Triathlon (June 6, 2027 – Sprint‑triathlon)
 [Q4 2027] ──> Sub-3:00 Marathon Block (Late Fall / CIM Dec 2027 - Converting Ironman diesel engine to 6:49/mi marathon pace)
-
-       │
 ```
 
 ---

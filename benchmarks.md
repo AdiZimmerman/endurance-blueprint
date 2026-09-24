@@ -92,8 +92,10 @@ A centralized reference for pacing, physiological zones, target race splits, cyc
 | **T2 (Transition 2)**| — | **3:00** | Lube, change shoes, sunblock | Controlled transition out to run |
 | **Run** | 26.2 mi (42.2 km)| **3:35:00** | 8:12 / mi (5:05 / km) | Discipline first 10 miles (cap @ 8:05/mi); walk aid stations |
 | **TOTAL** | **140.6 Miles** | **9:48:30** | — | **Sub-10:00 Finish** |
+
 ### 3. Escape From Alcatraz Sprint Triathlon (Goal: Sub-5:30:00)
 *Target Time: 3:30:00 (30 min swim, 1:15 h bike, 45 min run)*
+
 | Discipline | Distance | Target Time | Pace / Power Target | Fueling / Strategy Notes |
 | :--- | :--- | :--- | :--- | :--- |
 | **Swim** | 1.5 mi (2.4 km) | **30:00** | 1:45 / 100 m | Quick wetsuit, steady cadence |
@@ -102,8 +104,6 @@ A centralized reference for pacing, physiological zones, target race splits, cyc
 | **T2 (Transition 2)**| — | **2:00** | Quick shoe change | Laces elastic |
 | **Run** | 8 mi (13 km) | **45:00** | 6:30‑6:45 / mi | Maintain upright posture |
 | **TOTAL** | **27.5 mi** | **3:30:00** | — | **Sub-5:30 Finish** |
-
-
 
 ---
 
