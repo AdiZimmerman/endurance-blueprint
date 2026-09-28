@@ -5,7 +5,7 @@
 
 **Athlete Profile:** Adi Zimmerman (Baseline) | **FTP:** 260 W | **LTHR:** 172 bpm | **Max HR:** 188 bpm
 
-*Last Updated: 2026-09-21 11:19:44 UTC via [Intervals.icu Open API](https://www.intervals.icu/features/open-api/)*
+*Last Updated: 2026-09-28 12:35:38 UTC via [Intervals.icu Open API](https://www.intervals.icu/features/open-api/)*
 
 ---
 
@@ -13,10 +13,10 @@
 
 | Event | Target Date | Countdown | Goal Standard | Focus Disciplines |
 | :--- | :--- | :--- | :--- | :--- |
-| **Sub-1:30 Half Marathon** | 2026-11-29 | **69 days** | **Sub-1:30:00** (6:51/mi) | Threshold Run + Road Cycling Base |
-| **IRONMAN 70.3 Oceanside** | 2027-04-03 | **194 days** | **Sub-5:00:00** (4:51:30) | Harbor Swim + Pendleton Hills + Brick Runs |
-| **IRONMAN California** | 2027-10-18 | **392 days** | **Sub-10:00:00** (9:48:30) | River Swim + 112m Delta Aero + Marathon |
-| **Sub-3:00 Marathon (CIM / PR)** | 2027-12-05 | **440 days** | **Sub-3:00:00** (6:49/mi) | Marathon Specificity + Post-Ironman Speed |
+| **Sub-1:30 Half Marathon** | 2026-11-29 | **62 days** | **Sub-1:30:00** (6:51/mi) | Threshold Run + Road Cycling Base |
+| **IRONMAN 70.3 Oceanside** | 2027-04-03 | **187 days** | **Sub-5:00:00** (4:51:30) | Harbor Swim + Pendleton Hills + Brick Runs |
+| **IRONMAN California** | 2027-10-18 | **385 days** | **Sub-10:00:00** (9:48:30) | River Swim + 112m Delta Aero + Marathon |
+| **Sub-3:00 Marathon (CIM / PR)** | 2027-12-05 | **433 days** | **Sub-3:00:00** (6:49/mi) | Marathon Specificity + Post-Ironman Speed |
 
 ---
 
