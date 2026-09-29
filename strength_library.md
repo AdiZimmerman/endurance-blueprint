@@ -13,7 +13,7 @@ A comprehensive reference for strength, mobility, and plyometric exercises used 
 * **Setup:** Stand on a box or step (12–18 inches high).
 * **Execution:** Step off (do not hop) with one foot. Land on both feet simultaneously and immediately explode upward as high as possible. Minimize ground contact time.
 * **Cue:** *"Treat the ground like a hot stove."*
-* **Progression:** Start with 12" step $\rightarrow$ move to 18" step $\rightarrow$ single-leg landing landing/rebound.
+* **Progression:** Start with a 12" step $\rightarrow$ move to an 18" step only when landings stay quiet and controlled. Do not progress to single-leg rebound landings without coaching.
 
 ### 2. Alternate Leg Bounding
 * **Target:** Horizontal power output, hip extension power, running stride efficiency.
@@ -115,3 +115,12 @@ A comprehensive reference for strength, mobility, and plyometric exercises used 
 
 #### Dead Bug / Pallof Press
 * **Target:** Anti-rotation and anti-extension trunk stability.
+
+### Upper Body B
+
+Use this optional, low-volume menu after the Sunday long run or on a separate easy day. Keep 1–3 reps in reserve and omit it when the long run materially increases fatigue.
+
+* Archer push-ups or ring push-ups: 2–3 × 8–12
+* Pull-ups or chin-ups: 2–3 × clean reps
+* Pike push-ups: 2–3 × 6–12
+* Ab-wheel rollouts or hollow-body holds: 2–3 × 8–12 or 30–45 seconds

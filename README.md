@@ -4,7 +4,7 @@ A modular, version-controlled training framework designed for hybrid endurance a
 
 > ### 📍 Active Training Block: [Sub-1:30 Half Marathon (Q4 2026)](blocks/2026-q4-sub130-hm.md)
 > * **Current Goal:** Build lactate threshold speed ($3 \times 2\text{ mi}$ @ 6:25–6:35/mi) & road cycling aerobic base.
-> * **Weekly Rhythm:** 4 Runs · 2 Rides · 3 Stacked Calisthenics Sessions · 1 Rest Day.
+> * **Weekly Rhythm:** 4 Runs · 2 Rides · 2 Mandatory Strength Sessions · 1 Rest Day (with optional upper-body work).
 > 
 > 🚀 **[Open Master Weekly Schedule](blocks/2026-q4-sub130-hm.md)** · 📊 **[Live Fitness Dashboard](fitness-dashboard.md)** · 🎯 **[Target Splits & Benchmarks](benchmarks.md)** · 🎒 **[Race Readiness](race-readiness.md)**
 
@@ -88,9 +88,8 @@ This repository includes a direct integration with **[Intervals.icu Open API](ht
    python3 scripts/intervals_sync.py --push-workout "Tuesday Threshold" "Warmup\n- 15m Z2\n\nMain Set 3x\n- 2mi 6:30/mi\n- 2m Z1\n\nCooldown\n- 10m Z2"
    ```
 
-### Automated GitHub Actions Sync
-A pre-configured GitHub Actions workflow (`.github/workflows/intervals-sync.yml`) runs automatically every Monday at 06:00 UTC (or manually via `workflow_dispatch`).
-* Add repository secrets `INTERVALS_ATHLETE_ID` and `INTERVALS_API_KEY` in **GitHub $\to$ Settings $\to$ Secrets and variables $\to$ Actions**.
+### Automated Sync
+No workflow file is currently checked into this repository. If you add a scheduled GitHub Actions workflow later, store `INTERVALS_ATHLETE_ID` and `INTERVALS_API_KEY` as repository secrets under **GitHub → Settings → Secrets and variables → Actions**.
 
 ---
 
