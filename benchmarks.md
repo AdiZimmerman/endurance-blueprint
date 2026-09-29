@@ -198,3 +198,127 @@ Bodyweight strength preserves structural integrity, running economy, and upper-b
 | **Anterior Shin** | Tibialis Wall Raises | 25 reps | Shin splint prevention, deceleration control |
 | **Midline Core** | Hollow Body Hold / Ab Wheel | 60s hold / 15 rollouts | Pelvic control, eliminates lower back hyperextension |
 | **Neck & Scapular Extensors**| Prone Cobra / Y-T-W Holds | 3 sets x 45s hold | Prevents "Shermer's Neck" during 112m aero bike |
+
+---
+
+## 🦵 Lower Leg Strength \& Shin Health
+
+> [!NOTE]
+> *For medical advice or diagnosis regarding shin splints or lower leg pain, consult a sports medicine professional.*
+
+Building resilient lower legs prevents **medial tibial stress syndrome (shin splints)** and enables higher running volume. The goal is to target two systems: the **tibialis anterior** (front of shin) for deceleration control, and the **soleus/calf complex** for force absorption during midstance.
+
+Perform this routine **2–3 times per week** after runs or on strength days.
+
+### The 4 Pillars of Lower Leg Strength
+
+| Target Muscle | Key Role in Running | Gold Standard Exercise | Sets × Reps |
+| :--- | :--- | :--- | :--- |
+| **Tibialis Anterior** (Front Shin) | Absorbs heel strike impact; decelerates foot slap | Wall Tibialis Raises | 3 × 15–20 reps |
+| **Soleus** (Deep Calf) | Absorbs 6–8× bodyweight during midstance; primary endurance propulsion | Bent-Knee Calf Raises | 3 × 15 reps |
+| **Gastrocnemius** (Upper Calf) | Explosive push-off at toe-off; stabilizes knee extension | Straight-Leg Calf Raises (Off a Step) | 3 × 15–20 reps |
+| **Tibialis Posterior** (Inner Shin/Arch) | Controls foot pronation; supports longitudinal arch | Single-Leg Banded Inversion | 3 × 15 reps/side |
+
+### Exercise Prescriptions
+
+**1. Tibialis Anterior Heel Walks**
+* **How:** Flex your feet upward so you stand only on your heels, toes completely off the ground. Walk forward slowly, keeping toes lifted as high as possible.
+* **Protocol:** 3 sets × 30–45 seconds.
+* **Why it works:** Direct, high-volume endurance loading for the tibialis anterior.
+
+**2. Wall Tibialis Raises**
+* **How:** Stand with your buttocks and upper back flat against a wall, legs straight out in front of you. Lift the front of your feet off the floor as high as possible while keeping heels planted. Pause 1 second at the top, then lower slowly.
+* **Protocol:** 3 sets × 15–20 reps.
+* **Progress it:** Move feet farther from the wall to increase resistance, or progress to a single-leg variation.
+* **Why it's essential:** Most training programs ignore dorsiflexion entirely, leaving the tibialis anterior underconditioned relative to the calves.
+
+**3. Bent-Knee Calf Raises (Soleus Focus)**
+* **How:** Sit on a bench or chair with knees bent at ~90°. Place a dumbbell or heavy plate on your thighs. Raise heels as high as possible, hold 1 second, lower slowly under control.
+* **Protocol:** 3 sets × 15 reps.
+* **Why it works:** Bending the knee deactivates the gastrocnemius, isolating the deeper soleus — which absorbs up to **8× body weight** during running impact and carries the majority of endurance propulsion load.
+
+**4. Banded Ankle Inversion (Tibialis Posterior)**
+* **How:** Anchor a resistance band to a table leg. Loop the other end around the top of your foot. Pull your foot up and inward toward your body against resistance.
+* **Protocol:** 3 sets × 15 reps per side.
+* **Why it works:** Strengthens the posterior tibialis, which supports your arch and prevents excessive pronation that pulls on the shin bone.
+
+### ⚡ Loading Principles for Long-Term Adaptation
+
+| Principle | Application |
+| :--- | :--- |
+| **Progressive Overload** | Bodyweight raises are warmups — work toward **1.0–1.5× bodyweight** on calf raises to match road running forces |
+| **Eccentric Control** | Lower every rep with a **3-second descent**. Eccentric strength builds tendon stiffness in the Achilles, directly protecting against medial tibial stress syndrome |
+| **Plyometric Rate of Force** | Once baseline strength is established, add **pogo hops** and **single-leg line jumps** so tendons learn to store and return elastic energy efficiently |
+
+### 🏃 Key Biomechanical Fixes for Runners
+
+Strength work alone will not prevent shin issues if running mechanics consistently overstress the shins.
+
+| Factor | What Happens | Fix |
+| :--- | :--- | :--- |
+| **Cadence** | Low cadence → overstriding → heavy heel landing far in front of center of mass → spikes shin impact | Increase cadence by **5–10
+---
+
+## 🦵 Lower Leg Strength & Shin Health
+
+> [!NOTE]
+> *For medical advice or diagnosis regarding shin splints or lower leg pain, consult a sports medicine professional.*
+
+Building resilient lower legs prevents **medial tibial stress syndrome (shin splints)** and enables higher running volume. The goal is to target two systems: the **tibialis anterior** (front of shin) for deceleration control, and the **soleus/calf complex** for force absorption during midstance.
+
+Perform this routine **2–3 times per week** after runs or on strength days.
+
+### The 4 Pillars of Lower Leg Strength
+
+| Target Muscle | Key Role in Running | Gold Standard Exercise | Sets × Reps |
+| :--- | :--- | :--- | :--- |
+| **Tibialis Anterior** (Front Shin) | Absorbs heel strike impact; decelerates foot slap | Wall Tibialis Raises | 3 × 15–20 reps |
+| **Soleus** (Deep Calf) | Absorbs 6–8× bodyweight during midstance; primary endurance propulsion | Bent-Knee Calf Raises | 3 × 15 reps |
+| **Gastrocnemius** (Upper Calf) | Explosive push-off at toe-off; stabilizes knee extension | Straight-Leg Calf Raises (Off a Step) | 3 × 15–20 reps |
+| **Tibialis Posterior** (Inner Shin/Arch) | Controls foot pronation; supports longitudinal arch | Single-Leg Banded Inversion | 3 × 15 reps/side |
+
+### Exercise Prescriptions
+
+**1. Tibialis Anterior Heel Walks**
+* **How:** Flex your feet upward so you stand only on your heels, toes completely off the ground. Walk forward slowly, keeping toes lifted as high as possible.
+* **Protocol:** 3 sets × 30–45 seconds.
+* **Why it works:** Direct, high-volume endurance loading for the tibialis anterior.
+
+**2. Wall Tibialis Raises**
+* **How:** Stand with your buttocks and upper back flat against a wall, legs straight out in front of you. Lift the front of your feet off the floor as high as possible while keeping heels planted. Pause 1 second at the top, then lower slowly.
+* **Protocol:** 3 sets × 15–20 reps.
+* **Progress it:** Move feet farther from the wall to increase resistance, or progress to a single-leg variation.
+* **Why it's essential:** Most training programs ignore dorsiflexion entirely, leaving the tibialis anterior underconditioned relative to the calves.
+
+**3. Bent-Knee Calf Raises (Soleus Focus)**
+* **How:** Sit on a bench or chair with knees bent at ~90°. Place a dumbbell or heavy plate on your thighs. Raise heels as high as possible, hold 1 second, lower slowly under control.
+* **Protocol:** 3 sets × 15 reps.
+* **Why it works:** Bending the knee deactivates the gastrocnemius, isolating the deeper soleus — which absorbs up to **8× body weight** during running impact and carries the majority of endurance propulsion load.
+
+**4. Banded Ankle Inversion (Tibialis Posterior)**
+* **How:** Anchor a resistance band to a table leg. Loop the other end around the top of your foot. Pull your foot up and inward toward your body against resistance.
+* **Protocol:** 3 sets × 15 reps per side.
+* **Why it works:** Strengthens the posterior tibialis, which supports your arch and prevents excessive pronation that pulls on the shin bone.
+
+### ⚡ Loading Principles for Long-Term Adaptation
+
+| Principle | Application |
+| :--- | :--- |
+| **Progressive Overload** | Bodyweight raises are warmups — work toward **1.0–1.5× bodyweight** on calf raises to match road running forces |
+| **Eccentric Control** | Lower every rep with a **3-second descent**. Eccentric strength builds tendon stiffness in the Achilles, directly protecting against medial tibial stress syndrome |
+| **Plyometric Rate of Force** | Once baseline strength is established, add **pogo hops** and **single-leg line jumps** so tendons learn to store and return elastic energy efficiently |
+
+### 🏃 Key Biomechanical Fixes for Runners
+
+Strength work alone will not prevent shin issues if running mechanics consistently overstress the shins.
+
+| Factor | What Happens | Fix |
+| :--- | :--- | :--- |
+| **Cadence** | Low cadence → overstriding → heavy heel landing far in front of center of mass → spikes shin impact | Increase cadence by **5–10%**, targeting **170–180 spm**. Take shorter, faster strides. |
+| **Foot Strike** | Landing far ahead of your knees forces the tibialis anterior to eccentric-load heavily to slow foot slap | Land with your foot beneath a **slightly bent knee**, rather than reaching forward with an extended leg |
+| **Progression Rate** | Bone and tendon adapt slower than cardiovascular fitness — quick volume jumps cause tibial micro-fractures | Apply the **10% Rule**: never increase total weekly mileage or high-intensity volume by more than 10% week-over-week |
+
+### 🧴 Foam Rolling & Tissue Care
+
+* **Tibialis Anterior Roll:** Kneel on a foam roller positioned on the *meat* of your outer shin muscle (avoid rolling directly on the bony tibial ridge). Roll gently from below the knee to above the ankle.
+* **Calf / Achilles Release:** Roll out the gastrocnemius and soleus to ensure tightness in the back of the leg is not creating downstream pull on the shin structure and Achilles attachment.
