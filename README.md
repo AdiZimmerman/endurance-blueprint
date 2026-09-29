@@ -4,7 +4,7 @@ A modular, version-controlled training framework designed for hybrid endurance a
 
 > ### 📍 Active Training Block: [Sub-1:30 Half Marathon (Q4 2026)](blocks/2026-q4-sub130-hm.md)
 > * **Current Goal:** Build lactate threshold speed ($3 \times 2\text{ mi}$ @ 6:25–6:35/mi) & road cycling aerobic base.
-> * **Weekly Rhythm:** 4 Runs · 2 Rides · 2 Mandatory Strength Sessions · 1 Rest Day (with optional upper-body work).
+> * **Weekly Rhythm:** 4 Runs · 2 Rides · 2 Mandatory Lower-Body/Core Sessions · 1 Rest Day.
 > 
 > 🚀 **[Open Master Weekly Schedule](blocks/2026-q4-sub130-hm.md)** · 📊 **[Live Fitness Dashboard](fitness-dashboard.md)** · 🎯 **[Target Splits & Benchmarks](benchmarks.md)** · 🎒 **[Race Readiness](race-readiness.md)**
 
@@ -16,6 +16,7 @@ A modular, version-controlled training framework designed for hybrid endurance a
 .
 ├── README.md                          <-- Repo homepage & Active Block Banner
 ├── benchmarks.md                      <-- Pace charts, HR zones, target splits, swim CSS
+├── strength_library.md                 <-- Exercise form, progressions, and optional work
 ├── fitness-dashboard.md               <-- Live CTL/ATL/TSB metrics & race countdowns
 ├── race-readiness.md                  <-- Gear checklist, transition bags (T1/T2) & race tactics
 ├── blocks/
@@ -41,6 +42,7 @@ A modular, version-controlled training framework designed for hybrid endurance a
 | [**`fitness-dashboard.md`**](fitness-dashboard.md) | Live Training Dashboard | Live tracking of Fitness (CTL), Fatigue (ATL), Form (TSB), resting metrics, race countdowns, and recent workouts. |
 | [**`race-readiness.md`**](race-readiness.md) | Race Week & Gear Packing | Comprehensive transition bag checklist (Morning clothes, T1 Bike, T2 Run, Special Needs), taper timeline, and course tactical plans. |
 | [**`benchmarks.md`**](benchmarks.md) | Central Benchmark Truth | Target splits (Sub-1:30 HM, Sub-5:00 70.3, Sub-10:00 Ironman, Sub-3:00 Marathon), 5-zone HR models, CSS swim zones, cycling FTP, fueling & strength standards. |
+| [**`strength_library.md`**](strength_library.md) | Strength and Mobility Library | Form cues, progressions, mandatory drivers, and optional supporting exercises. |
 | [**`blocks/2026-q4-sub130-hm.md`**](blocks/2026-q4-sub130-hm.md) | Sub-1:30 Half Marathon | Lactate threshold intervals ($3 \times 2\text{ mi}$), V̇O₂ max track repeats, long base rides, stacked leg & posterior calisthenics. |
 | [**`blocks/2027-q1-oceanside-703.md`**](blocks/2027-q1-oceanside-703.md) | Sub-5:00 IRONMAN 70.3 Oceanside *(April 3, 2027)* | Harbor swim CSS intervals, Camp Pendleton rolling hill surges (San Mateo grade), Saturday aero long rides + brick runs off the bike, swim propulsion calisthenics. |
 | [**`blocks/2027-q2-escape-alcatraz.md`**](blocks/2027-q2-escape-alcatraz.md) | Escape From Alcatraz Triathlon *(June 6, 2027)* | 1.5 mi open-water bay swim (Alcatraz island current), 18 mi hilly bike through the Presidio & Golden Gate Park, 8 mi waterfront run; sprint-race pace sharpening & transition speed. |
@@ -88,8 +90,9 @@ This repository includes a direct integration with **[Intervals.icu Open API](ht
    python3 scripts/intervals_sync.py --push-workout "Tuesday Threshold" "Warmup\n- 15m Z2\n\nMain Set 3x\n- 2mi 6:30/mi\n- 2m Z1\n\nCooldown\n- 10m Z2"
    ```
 
-### Automated Sync
-No workflow file is currently checked into this repository. If you add a scheduled GitHub Actions workflow later, store `INTERVALS_ATHLETE_ID` and `INTERVALS_API_KEY` as repository secrets under **GitHub → Settings → Secrets and variables → Actions**.
+### Automated GitHub Actions Sync
+A checked-in GitHub Actions workflow (`.github/workflows/intervals-sync.yml`) runs every Monday at 06:00 UTC or manually via `workflow_dispatch`.
+* Add repository secrets `INTERVALS_ATHLETE_ID` and `INTERVALS_API_KEY` under **GitHub Settings > Secrets and variables > Actions**.
 
 ---
 

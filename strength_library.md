@@ -4,6 +4,7 @@ A comprehensive reference for strength, mobility, and plyometric exercises used 
 
 ---
 
+<a id="advanced-plyometrics"></a>
 ## ⚡ Advanced Plyometrics
 
 > **Rule of Engagement:** Always perform when fully fresh (post-activation, pre-run). High central nervous system (CNS) demand; quality over quantity.
@@ -35,6 +36,7 @@ A comprehensive reference for strength, mobility, and plyometric exercises used 
 
 ---
 
+<a id="lower-body-strength"></a>
 ## 🦵 Lower-Body Strength
 
 ### Primary Mandatory Drivers
@@ -65,6 +67,7 @@ A comprehensive reference for strength, mobility, and plyometric exercises used 
 
 ---
 
+<a id="lower-body-supplementary-options"></a>
 ### Supplementary Options
 
 #### Step-Ups
@@ -83,8 +86,19 @@ A comprehensive reference for strength, mobility, and plyometric exercises used 
 * **Target:** Reactive ankle stiffness, lower-leg elastic recoil.
 * **Execution:** Hop repeatedly on the balls of your feet with stiff knees, using only ankle extension to propel upward.
 
+#### Seated Soleus Raise
+* **Target:** Bent-knee soleus strength and lower-leg endurance for repeated running load.
+* **Setup:** Sit with knees bent around 90° and place a dumbbell, weight plate, or machine pad over the thighs just above the knees.
+* **Execution:** Lift the heels as high as possible, pause briefly at the top, then lower under control without bouncing.
+* **Protocol:** 2–3 × 12–20 reps; progress load when all reps are controlled.
+
+#### Lateral Band Walks
+* **Target:** Gluteus medius strength, hip stability, and knee tracking.
+* **Execution:** Place a mini-band above the knees or around the ankles. Keep a soft knee bend and level hips while taking controlled side steps without letting the knees collapse inward.
+
 ---
 
+<a id="upper-body-core"></a>
 ## 🏋️ Upper Body & Core
 
 ### Primary Mandatory Drivers
@@ -105,6 +119,7 @@ A comprehensive reference for strength, mobility, and plyometric exercises used 
 
 ---
 
+<a id="upper-body-supplementary-options"></a>
 ### Supplementary Options
 
 #### Pull-ups / Chin-ups
@@ -113,8 +128,13 @@ A comprehensive reference for strength, mobility, and plyometric exercises used 
 #### Inverted Rows / Dips
 * **Target:** Horizontal pulling and pushing mechanics to balance running posture.
 
+<a id="core-supplementary-options"></a>
 #### Dead Bug / Pallof Press
 * **Target:** Anti-rotation and anti-extension trunk stability.
+
+#### Loaded Hip-Flexor March
+* **Target:** Hip-flexor strength and pelvis control during the swing phase of running.
+* **Execution:** Hold a light dumbbell or kettlebell in the opposite hand, stand tall, and slowly raise one knee to hip height without leaning or arching the lower back. Alternate sides under control.
 
 ### Upper Body B
 

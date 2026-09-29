@@ -201,8 +201,6 @@ Bodyweight strength preserves structural integrity, running economy, and upper-b
 
 ---
 
----
-
 ## 🦵 Lower Leg Strength & Shin Health
 
 > [!NOTE]
